@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 袁志恒
+# xxx
 性别：男    电话：**   邮箱：zzzz@foxmail.com
 ### 教育背景
 2019.09 - 2022.06         xxxx大学     	    机械制造及其自动化             工学硕士(Top 5%)
