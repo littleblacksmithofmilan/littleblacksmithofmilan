@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **littleblacksmithofmilan/littleblacksmithofmilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 袁志恒
+性别：男    电话：19818999596   邮箱：yuanzhiheng.dut@foxmail.com
+### 教育背景
+2019.09 - 2022.06         大连理工大学     	    机械制造及其自动化             工学硕士(Top 5%)
+2015.09 - 2019.07         大连海事大学           机械设计制造及其自动化         工学学士(Top 10%)
